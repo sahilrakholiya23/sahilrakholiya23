@@ -9,6 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/sahilrakho59343" target="blank"><img src="https://img.shields.io/twitter/follow/sahilrakho59343?logo=twitter&style=for-the-badge" alt="sahilrakho59343" /></a> </p>
 
+
+Exprience :
+    - 1 Month internship at Invisible Fiction,Anand as a Web Devloper 
+
 - 🔭 I’m currently working on **Rio**
 
 - 👯 I’m looking to collaborate on **Phantom Eye – AI-Powered Honeypot System**
