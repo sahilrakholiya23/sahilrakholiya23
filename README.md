@@ -1,5 +1,5 @@
 <h1 align="center">⋆༺𓆩☠︎︎𓆪༻⋆</h1>
-<h1 align="center">Hi 👋, I'm sahil</h1>
+<h1 align="center">Hi 👋, I'm 0XNors</h1>
 <h3 align="center">I am Cyber Security Professional & Web Devloper 💀</h3>
 <img align="right" alt="gif" width="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FlNtmoshuUI8AAAAj%2Fbahroo-hacker.gif&f=1&nofb=1&ipt=2a6d5ebfadda02b762d612a8af20de9bdc47aa179aa1bb492c625dc550a84aab">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sahilrakho59343" target="blank"><img src="https://img.shields.io/twitter/follow/sahilrakho59343?logo=twitter&style=for-the-badge" alt="sahilrakho59343" /></a> </p>
+
 
 
 Exprience :
