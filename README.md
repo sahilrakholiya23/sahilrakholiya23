@@ -10,8 +10,7 @@
 
 
 
-Exprience :
-    - 1 Month internship at Invisible Fiction,Anand as a Web Devloper 
+
 
 - 🔭 I’m currently working on **Rio**
 
